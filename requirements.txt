@@ -21,7 +21,6 @@ platformdirs==4.2.1
 prompt-toolkit==3.0.43
 psutil==5.9.8
 pure-eval==0.2.2
-PyAudio==0.2.14
 pycparser==2.22
 Pygments==2.17.2
 python-dateutil==2.9.0.post0
